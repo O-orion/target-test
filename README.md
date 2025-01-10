@@ -4,7 +4,7 @@ Este repositório contém as soluções para as atividades do teste de programa�
 
 ## Descrição das Atividades
 
-Cada arquivo `questaoX` contém a implementação de uma atividade solicitada no teste.
+Cada arquivo contém a implementação de uma atividade solicitada no teste.
 
 - **questao1:** Descrição da atividade 1.
 - **questao2:** Descrição da atividade 2.
